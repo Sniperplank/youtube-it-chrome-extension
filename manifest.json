@@ -1,0 +1,28 @@
+{
+    "name": "Youtube It",
+    "description": "Search youtube for a selected phrase",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "search.js"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "/Images/youtube_it_icon16.png",
+            "32": "/Images/youtube_it_icon32.png",
+            "48": "/Images/youtube_it_icon48.png",
+            "128": "/Images/youtube_it_icon128.png"
+        }
+    },
+    "permissions": [
+        "contextMenus",
+        "tabs"
+    ],
+    "icons": {
+        "16": "/Images/youtube_it_icon16.png",
+        "32": "/Images/youtube_it_icon32.png",
+        "48": "/Images/youtube_it_icon48.png",
+        "128": "/Images/youtube_it_icon128.png"
+    }
+}
