@@ -17,3 +17,8 @@
 ### Using the Extension
 You can search a selected phrase on any page by right click then "Search on Youtube". 
 You can also search youtube by clicking the extension icon in the top right corner of the browser without having to navigate to youtube.com
+
+<p align="center">
+  <img src="https://github.com/Sniperplank/youtube-it-chrome-extension/blob/main/Images/context_menu_preview.jpg"/>
+  <img src="https://github.com/Sniperplank/youtube-it-chrome-extension/blob/main/Images/popup_preview.jpg"/>
+</p>
