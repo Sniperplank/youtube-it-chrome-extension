@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sniperplank/youtube-it-chrome-extension/blob/main/Images/youtube_it_icon128.png" width="75" height="75"/>
+  <img src="https://github.com/Sniperplank/youtube-it-chrome-extension/blob/main/youtube_it_icon128.png" width="75" height="75"/>
 </p>
 
 <h1 align="center">Youtube It</h1>
