@@ -17,9 +17,7 @@
     },
     "permissions": [
         "contextMenus",
-        "tabs",
-        "activeTab",
-        "scripting"
+        "tabs"
     ],
     "icons": {
         "16": "/Images/youtube_it_icon16.png",
