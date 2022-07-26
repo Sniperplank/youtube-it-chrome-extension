@@ -1,10 +1,10 @@
 {
     "name": "Youtube It",
-    "description": "Search youtube for a selected phrase",
+    "description": "Search youtube quicker",
     "version": "1.0",
     "manifest_version": 3,
     "background": {
-        "service_worker": "search.js"
+        "service_worker": "searchSelected.js"
     },
     "action": {
         "default_popup": "popup.html",
@@ -17,7 +17,9 @@
     },
     "permissions": [
         "contextMenus",
-        "tabs"
+        "tabs",
+        "activeTab",
+        "scripting"
     ],
     "icons": {
         "16": "/Images/youtube_it_icon16.png",
