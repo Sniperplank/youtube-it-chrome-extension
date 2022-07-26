@@ -12,7 +12,7 @@
             "16": "/Images/youtube_it_icon16.png",
             "32": "/Images/youtube_it_icon32.png",
             "48": "/Images/youtube_it_icon48.png",
-            "128": "/Images/youtube_it_icon128.png"
+            "128": "youtube_it_icon128.png"
         }
     },
     "permissions": [
