@@ -16,8 +16,7 @@
         }
     },
     "permissions": [
-        "contextMenus",
-        "tabs"
+        "contextMenus"
     ],
     "icons": {
         "16": "/Images/youtube_it_icon16.png",
